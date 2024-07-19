@@ -8,7 +8,7 @@ The Hand Gesture Recognition Application is designed to recognize hand gestures 
 
 Installation
 
-git clone https://github.com/your-username/hand-gesture-recognition.git
+git clone
 
 
 Install Python dependencies:
