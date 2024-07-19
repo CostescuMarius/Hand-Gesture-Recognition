@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete 2 elements from project &apos;handgesture&apos;&#x0D;&#x0A;- Original project: &apos;handgesture&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     37e1fe798f7a6df66d76.aff&#x0D;&#x0A;     7f71b2755da923c975b7.dic" description="Delete elements" element1="src/main/resources/static/app/7f71b2755da923c975b7.dic" element2="src/main/resources/static/app/37e1fe798f7a6df66d76.aff" elements="0" flags="589830" id="org.eclipse.jdt.ui.delete" resources="2" stamp="1718283586419" subPackages="false" version="1.0"/>
+</session>
